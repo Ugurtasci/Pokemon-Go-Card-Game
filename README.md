@@ -9,5 +9,5 @@ Bu proje, React ile oluşturulmuş bir Pokemon savaş simülasyonu oyunu içeriy
 
 - Pokecard ürünü, onu bir Pokemon karakterini temsil eder. Karakterin adını, tipini, deneyim puanını ve görünümünü gösterir. Resimler, resmi Pokemon sanat eserlerinden alınır.
 
-<h3>Ekran Görümtüsü</h3>
-![](ekrangörümtüsü.gif)
+<h3>Ekran Görüntüsü</h3>
+![](ekrangörüntüsü.gif)
